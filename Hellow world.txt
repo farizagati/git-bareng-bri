@@ -1,4 +1,8 @@
+Ini yang di atas.
+
 Halo, ini adalah file buatan fariz.
 Disini aku baru aja membuat sebuah text file.
+
+Ini adalah text baru dari Fariz. Jadi ceritanya ini fariz mau coba bikin conflict file di dalam branchnya eka.
 
 Ini teks dari branch-fariz.
