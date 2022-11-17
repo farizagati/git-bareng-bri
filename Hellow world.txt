@@ -1,2 +1,4 @@
 Halo, ini adalah file buatan fariz.
 Disini aku baru aja membuat sebuah text file.
+
+Ini teks dari branch-fariz.
